@@ -22,4 +22,12 @@ This project is an interactive **Streamlit** app that uses machine learning to p
 - **Scikit-learn**: A machine learning library that provides the RandomForestClassifier used to predict the species of Iris flowers.
 - **Pandas**: A powerful data manipulation library used to handle the Iris dataset.
 
+## Screenshots
+
+Here is the screenshot of the web application:
+
+1. **Prediction Output**
+   ![Prediction Output](screenshot/PredictionSS.png)
+
+
 
