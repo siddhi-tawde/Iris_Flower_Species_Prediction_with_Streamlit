@@ -12,12 +12,12 @@ This project is an interactive **Streamlit** app that uses machine learning to p
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - pip (Python package installer)
   
 ## Technology Used
 
-- **Python 3.x**: The primary programming language used for the project.
+- **Python 3.10**: The primary programming language used for the project.
 - **Streamlit**: A Python library that allows for the creation of interactive, real-time web applications with minimal code.
 - **Scikit-learn**: A machine learning library that provides the RandomForestClassifier used to predict the species of Iris flowers.
 - **Pandas**: A powerful data manipulation library used to handle the Iris dataset.
